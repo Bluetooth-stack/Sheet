@@ -27,4 +27,4 @@ You can create your sheet and do various operations such as
 
 ![Screenshot 2023-07-28 135851](https://github.com/Bluetooth-stack/Sheet/assets/80689111/0a2cf3ea-5fa7-44be-b39e-b4cc7c3cc363)
 
--You can click on the question-mark(?) icon for any help or feedbackif you have.
+-You can click on the question-mark(?) icon for any help or feedback if you have.

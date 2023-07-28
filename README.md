@@ -1,5 +1,5 @@
 # Sheet
-it is an online excel sheet having 100 rows and 26 columns with various functionalities.
+It is an online excel sheet having 100 rows and 26 columns with various functionalities.
 
 ![Screenshot 2023-07-28 135631](https://github.com/Bluetooth-stack/Sheet/assets/80689111/c87ae557-2f55-4254-842a-b12f551f94b9)
 
